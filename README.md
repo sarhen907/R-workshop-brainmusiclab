@@ -6,7 +6,7 @@ Welcome to the Comprehensive R-Tutorial. This is a workshop/crash-course taught 
 This is intended to be helpful for your research goals and beyond. However, please keep in mind that we are not experts. 
 We have all learned R, stats, and programming fairly recently, too! We just want to share that knowledge with you. 
 
-Please download everything in this repository for best results! 
+Please download everything in this repository for best results! The .rmd file is what you open in R studio. The .html is what you can open from a web browser. 
 
 WHAT THIS IS: An ever-expanding notebook of how to use R for various data-related activities. 
 Because we are always learning (yay!), this notebook is never finished. 
